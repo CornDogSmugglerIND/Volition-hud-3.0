@@ -1,0 +1,1 @@
+export default function Settings(){return(<div style={{color:'#0ff'}}>Settings Page</div>)}

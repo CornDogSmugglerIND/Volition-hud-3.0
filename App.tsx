@@ -1,0 +1,1 @@
+import BootScreen from './components/BootScreen'; import Dashboard from './pages/Dashboard'; import Inventory from './pages/Inventory'; import Settings from './pages/Settings'; export default function App(){return(<div><BootScreen/><Dashboard/><Inventory/><Settings/></div>)}

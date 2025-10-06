@@ -1,0 +1,1 @@
+export default function Inventory(){return(<div style={{color:'#0ff'}}>Inventory Page</div>)}

@@ -1,0 +1,1 @@
+export default function Dashboard(){return(<div style={{color:'#0ff'}}>Dashboard Loaded</div>)}

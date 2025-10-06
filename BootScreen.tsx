@@ -1,0 +1,1 @@
+export default function BootScreen(){return(<div style={{color:'#0ff',textAlign:'center',marginTop:'20%'}}>Initializing Coalition HUD...</div>)}
